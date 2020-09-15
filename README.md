@@ -1,0 +1,2 @@
+# ExercicioSimpleAdapter
+Exercício Simple Adapter 
